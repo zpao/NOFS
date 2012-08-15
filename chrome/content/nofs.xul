@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<overlay id="nofs-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <window id="main-window"
+          fullscreenbutton="false" />
+
+</overlay>
+
